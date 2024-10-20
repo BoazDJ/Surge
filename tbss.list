@@ -1,0 +1,8 @@
+# Boxjs 代理
+DOMAIN-KEYWORD,jsdelivr.net
+# Sub-Store 的 Web 页面
+DOMAIN-SUFFIX,vercel.app
+# TestFlight 商店
+DOMAIN,testflight.apple.com
+DOMAIN,beta.apple.com
+DOMAIN-KEYWORD,testflight
