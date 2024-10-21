@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,vercel.app
 DOMAIN,testflight.apple.com
 DOMAIN,beta.apple.com
 DOMAIN-KEYWORD,testflight
+# GitHub
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitHub/GitHub.list
