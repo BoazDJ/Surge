@@ -1,13 +1,16 @@
 # Boxjs 代理
 DOMAIN-KEYWORD,jsdelivr.net
+
 # Sub-Store 的 Web 页面
 DOMAIN-SUFFIX,vercel.app
+
 # TestFlight 商店
 DOMAIN,testflight.apple.com
 DOMAIN,beta.apple.com
 DOMAIN-KEYWORD,testflight
+
 # GitHub
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitHub/GitHub.list
+#RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitHub/GitHub.list
 # NAME: GitHub
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
@@ -15,6 +18,7 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 29
 # TOTAL: 30
+
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,ghcr.io
