@@ -1,0 +1,5 @@
+# 腾讯 WeChat ASN
+IP-ASN,132203,WeChat,no-resolve
+IP-ASN,56040,WeChat,no-resolve
+IP-ASN,45090,WeChat,no-resolve
+DOMAIN-SUFFIX,qq.com,WeChat,extended-matching
