@@ -1,5 +1,0 @@
-RULE-SET,https://ruleset.skk.moe/List/non_ip/stream.conf
-RULE-SET,https://ruleset.skk.moe/List/ip/stream.conf
-DOMAIN-SET,https://ruleset.skk.moe/List/domainset/cdn.conf
-RULE-SET,https://ruleset.skk.moe/List/non_ip/cdn.conf
-RULE-SET,https://ruleset.skk.moe/List/non_ip/global.conf
